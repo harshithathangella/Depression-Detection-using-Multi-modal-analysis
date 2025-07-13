@@ -65,13 +65,6 @@ This tool is for educational and screening purposes only. It is NOT a substitute
 - **Voice Analysis**: Audio processing using numpy and scipy
 - **Risk Assessment**: Weighted combination of text and voice scores
 
-## Support
-
-For crisis support, please contact:
-- National Suicide Prevention Lifeline: 988 (US)
-- Crisis Text Line: Text HOME to 741741
-- International Association for Suicide Prevention: https://www.iasp.info/resources/Crisis_Centres/
-
 ## License
 
 This project is for educational purposes. Please use responsibly and always encourage professional help when needed.
